@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/twitter.9e5092a2.svg"
   },
   {
-    "revision": "5993602069243e2b6379",
-    "url": "/static/css/main.89ef6a3a.chunk.css"
+    "revision": "02afe7f812b422adbde7",
+    "url": "/static/css/main.fff1291f.chunk.css"
   },
   {
-    "revision": "e9fde07cb1ff39826459ec6945ee737b",
-    "url": "/static/media/hero-illustration3.e9fde07c.svg"
+    "revision": "e4f9d32bf9a51e79ce1b4ddd9440fbe0",
+    "url": "/static/media/hero-illustration2.e4f9d32b.svg"
   },
   {
     "revision": "afadaac8739995bde33c",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/linkedin.533b69eb.svg"
   },
   {
-    "revision": "5993602069243e2b6379",
-    "url": "/static/js/main.59936020.chunk.js"
+    "revision": "02afe7f812b422adbde7",
+    "url": "/static/js/main.02afe7f8.chunk.js"
   },
   {
     "revision": "7b2fb7c3d07cc5be2df5198740034421",
@@ -76,19 +76,19 @@ self.__precacheManifest = [
     "url": "/static/media/twitter_active.88680423.svg"
   },
   {
-    "revision": "c256499796a4465f8b046a6eb3d5cb9f",
-    "url": "/static/media/hero-illustration.c2564997.svg"
+    "revision": "0ccec97ec8f6bceee3f917a62add8d36",
+    "url": "/static/media/hero-illustration.0ccec97e.svg"
   },
   {
-    "revision": "93e80deaec29d9d4906ad8da3757a561",
-    "url": "/static/media/hero-illustration2.93e80dea.svg"
+    "revision": "e9fde07cb1ff39826459ec6945ee737b",
+    "url": "/static/media/hero-illustration3.e9fde07c.svg"
   },
   {
     "revision": "afadaac8739995bde33c",
     "url": "/static/css/1.94a71c0e.chunk.css"
   },
   {
-    "revision": "266199403dde203d7d0182550077dac2",
+    "revision": "23e238d1bd092d095b1555877e4fcd6a",
     "url": "/index.html"
   }
 ];
